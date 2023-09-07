@@ -1,0 +1,34 @@
+
+What do you mean by BI? Explain.
+
+BI stands for Business Intelligence. It is a broad term that encompasses the processes, technologies, and applications used to collect, analyze, and visualize data to help businesses make better decisions. BI can be used to improve a wide range of business functions, including sales, marketing, operations, and finance.
+
+How Power-BI helps in BI, and how does it help Analysts? Explain.
+
+Power BI is a business intelligence (BI) tool developed by Microsoft. It allows users to collect, analyze, and visualize data from a variety of sources. Power BI can help analysts in a number of ways, including:
+
+Making data analysis easier: Power BI provides a number of tools and features that can help analysts to make data analysis easier. These tools include data cleaning, data preparation, data visualization, and data modeling.
+Making data analysis more collaborative: Power BI allows analysts to collaborate on data analysis projects. This can be done by sharing reports, dashboards, and datasets with other analysts.
+Making data analysis more accessible: Power BI is a cloud-based BI tool. This means that analysts can access Power BI from anywhere, as long as they have an internet connection.
+Explain Descriptive analytics?
+
+Descriptive analytics is a type of BI that describes what has happened in the past. It is used to answer questions such as "What were our sales last month?" or "What are our most popular products?" Descriptive analytics can be used to identify trends, patterns, and anomalies in data.
+
+Explain Predictive analytics?
+
+Predictive analytics is a type of BI that predicts what will happen in the future. It is used to answer questions such as "What will our sales be next month?" or "What are the chances of a customer churning?" Predictive analytics uses statistical models to predict future outcomes.
+
+Explain perspective analytics?
+
+Perspective analytics is a type of BI that provides different viewpoints on data. It is used to answer questions such as "How do our sales compare to our competitors?" or "What are the key drivers of our customer churn?" Perspective analytics uses data visualization to present data in different ways.
+
+Write five real-life questions that PowerBi can solve.
+
+Here are five real-life questions that Power BI can solve:
+
+What are our top-selling products?
+Where are our customers located?
+What are our most profitable customers?
+What are our most popular marketing channels?
+What are our customer churn rates?
+Power BI can help businesses answer these questions by providing them with insights into their data. These insights can be used to make better decisions about marketing, sales, and operations.

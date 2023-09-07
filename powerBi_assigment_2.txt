@@ -1,0 +1,65 @@
+
+
+Question 1: Explain the advantages of Natural Queries in PowerBi with an example? (Q1)
+
+Answer: Natural language queries (NLQ) in Power BI allow users to ask questions in plain English. This can be a great way to interact with data, especially for users who are not familiar with SQL.
+
+For example, you could ask the following question in Power BI:
+
+What is the average sales of product X in the last month?
+Power BI would then use NLQ to translate this question into SQL and run the query against your data. The results of the query would then be displayed in a table or chart.
+
+Question 2: Explain Web Front End(WFE) cluster from Power BI Service Architecture? (Q2)
+
+Answer: The Web Front End (WFE) cluster in Power BI Service Architecture is responsible for serving Power BI reports and dashboards to users. The WFE cluster is made up of a number of web servers that are load balanced. This ensures that users can always access Power BI reports and dashboards, even if some of the web servers in the WFE cluster are unavailable.
+
+Question 3: Explain Back End cluster from Power BI Service Architecture? (Q3)
+
+Answer: The Back End cluster in Power BI Service Architecture is responsible for storing Power BI data and models. The Back End cluster is made up of a number of database servers that are also load balanced. This ensures that Power BI data and models are always available, even if some of the database servers in the Back End cluster are unavailable.
+
+Question 4: What ASP.NET component does in Power BI Service Architecture? (Q4)
+
+Answer: The ASP.NET component in Power BI Service Architecture is responsible for handling user requests. When a user requests a Power BI report or dashboard, the ASP.NET component will send the request to the WFE cluster. The WFE cluster will then render the report or dashboard and send it back to the user.
+
+Question 5: Compare Microsoft Excel and PowerBi Desktop on the following features:
+Data import
+Data transformation
+Modeling
+Reporting
+Server Deployment
+Convert Models
+Cost (Q5)
+
+Answer:
+
+Feature	Microsoft Excel	Power BI Desktop
+Data import	Supports a wide range of data sources	Supports a wide range of data sources
+Data transformation	Provides a variety of data transformation tools	Provides a variety of data transformation tools
+Modeling	Provides a variety of modeling tools	Provides a variety of modeling tools
+Reporting	Provides a variety of reporting tools	Provides a variety of reporting tools
+Server deployment	Can be deployed on-premises or in the cloud	Can be deployed on-premises or in the cloud
+Convert models	Can convert Excel models to Power BI models	Can convert Excel models to Power BI models
+Cost	Free	Free for personal use, paid for commercial use
+Question 6: List 20 data sources supported by Power Bi desktop. (Q6)
+
+Answer:
+
+Azure Analysis Services
+Azure SQL Database
+CSV
+Excel
+Google Analytics
+Google Sheets
+Microsoft Access
+Microsoft SQL Server
+Oracle
+Salesforce
+SharePoint
+Twitter
+Web
+Yammer
+Amazon Redshift
+IBM DB2
+SAP HANA
+Sybase IQ
+Teradata

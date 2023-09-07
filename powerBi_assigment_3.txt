@@ -1,0 +1,40 @@
+
+1.List and explain different PowerBi products?
+
+Power BI is a suite of business intelligence (BI) tools developed by Microsoft. It allows users to collect, analyze, and visualize data from a variety of sources. The different Power BI products include:
+
+Power BI Desktop: This is the main Power BI product. It is a desktop application that allows users to create and publish Power BI reports.
+Power BI Online: This is a cloud-based version of Power BI Desktop. It allows users to access and interact with Power BI reports from anywhere.
+Power BI Mobile: This is a mobile app that allows users to view and interact with Power BI reports on their smartphones and tablets.
+Power BI Embedded: This is a set of APIs that allow developers to embed Power BI reports in their own applications.
+
+2.What limitations of Excel, Microsoft solved by PowerBi?
+
+Power BI solves a number of limitations of Excel, including:
+
+The ability to work with large datasets. Excel is limited to working with datasets that fit in memory. Power BI can work with datasets that are much larger than this.
+The ability to connect to a wider variety of data sources. Excel can only connect to a limited number of data sources. Power BI can connect to a wide variety of data sources, including cloud-based sources, such as Azure SQL Database and Salesforce.
+
+The ability to create more complex and interactive visualizations. Excel's visualizations are limited in their complexity and interactivity. Power BI's visualizations are much more complex and interactive.
+
+3.Explain PowerQuery?
+
+
+PowerQuery is a tool that allows users to import, transform, and clean data from a variety of sources. It is a powerful tool that can help users to get their data ready for analysis.
+
+4.Explain PowerMap?
+
+PowerMap is a tool that allows users to visualize data in a geographical context. It is a powerful tool that can help users to understand the spatial relationships between different data points.
+
+5.How powerBi eliminated the need to host SharePoint Server on premises?
+
+Power BI eliminates the need to host SharePoint Server on premises by providing a cloud-based alternative. This means that users can access Power BI reports from anywhere, without having to worry about maintaining a SharePoint Server infrastructure.
+
+6.Explain the updates done in Power Bi Service(power BI 2.0) as compared to older version ?
+
+Power BI 2.0 includes a number of new features and improvements, including:
+
+Improved performance: Power BI 2.0 is much faster than the previous version. This is especially noticeable when working with large datasets.
+New visuals: Power BI 2.0 includes a number of new visuals, including a new map visual and a new treemap visual.
+Enhanced security: Power BI 2.0 includes enhanced security features, such as the ability to set permissions on reports and datasets.
+Improved integration with other Microsoft products: Power BI 2.0 is more tightly integrated with other Microsoft products, such as Excel and Azure Analysis Services.
